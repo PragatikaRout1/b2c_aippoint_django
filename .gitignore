@@ -1,0 +1,8 @@
+# Ignore virtual environment
+myenv/
+.idea
+*.pyc
+helpers\__pycache__\*.pyc
+be-python/
+be-python.zip
+resume_parser\__pycache__\*.pyc
